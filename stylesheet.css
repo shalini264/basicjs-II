@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color:white;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:200px;
+}
+.red{padding:5%;
+    background-color:red;
+    float:left;
+    height:50px;
+    width:150px;
+    position: relative;
+    text-align: center;
+}
+.pink{
+    background-color:pink;
+    float:left;
+    padding:5%;
+    height:50px;
+    width:200px;
+    position: relative;
+    text-align:center;
+}
+.blue{
+    background-color:blue;
+    float:left;
+    padding:5%;
+    height:50px;
+    width:200px;
+    position: relative;
+    text-align:center;
+}
+.orange{
+    background-color:orange;
+    float:left;
+    height:50px;
+    width:200px;
+    padding:5%;
+    text-align: center;
+    position:relative;
+}
+.center{
+    border-radius:100%;
+    text-align:center;
+    width:20%;
+    height:200px;
+    position:relative;
+    float:left;
+    margin-left:500px;
+}
